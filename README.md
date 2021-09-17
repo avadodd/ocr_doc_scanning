@@ -3,7 +3,8 @@ All scripts for preprocessing docx and pdf files and post processing raw text fi
 
 Pre-processing
 1. lock_file_handling.py sends all the locked file to an error directory
-2. -----.py to send all the files through AWS bucket
+2. naming convention script???
+3. -----.py to send all the files through AWS bucket
 
 
 Post-processing
